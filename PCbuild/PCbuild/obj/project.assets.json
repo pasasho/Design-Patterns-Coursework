@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bucki\\Desktop\\DPatterns\\PCbuild\\PCbuild\\PCbuild.csproj",
+      "projectUniqueName": "C:\\Users\\bucki\\Desktop\\PCbuild\\PCbuild\\PCbuild.csproj",
       "projectName": "PCbuild",
-      "projectPath": "C:\\Users\\bucki\\Desktop\\DPatterns\\PCbuild\\PCbuild\\PCbuild.csproj",
+      "projectPath": "C:\\Users\\bucki\\Desktop\\PCbuild\\PCbuild\\PCbuild.csproj",
       "packagesPath": "C:\\Users\\bucki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bucki\\Desktop\\DPatterns\\PCbuild\\PCbuild\\obj\\",
+      "outputPath": "C:\\Users\\bucki\\Desktop\\PCbuild\\PCbuild\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bucki\\AppData\\Roaming\\NuGet\\NuGet.Config",

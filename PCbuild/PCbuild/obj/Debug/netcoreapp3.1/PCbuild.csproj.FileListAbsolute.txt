@@ -9,3 +9,14 @@ C:\Users\bucki\Desktop\DPatterns\PCbuild\PCbuild\obj\Debug\netcoreapp3.1\PCbuild
 C:\Users\bucki\Desktop\DPatterns\PCbuild\PCbuild\obj\Debug\netcoreapp3.1\PCbuild.AssemblyInfo.cs
 C:\Users\bucki\Desktop\DPatterns\PCbuild\PCbuild\obj\Debug\netcoreapp3.1\PCbuild.dll
 C:\Users\bucki\Desktop\DPatterns\PCbuild\PCbuild\obj\Debug\netcoreapp3.1\PCbuild.pdb
+C:\Users\bucki\Desktop\PCbuild\PCbuild\bin\Debug\netcoreapp3.1\PCbuild.exe
+C:\Users\bucki\Desktop\PCbuild\PCbuild\bin\Debug\netcoreapp3.1\PCbuild.deps.json
+C:\Users\bucki\Desktop\PCbuild\PCbuild\bin\Debug\netcoreapp3.1\PCbuild.runtimeconfig.json
+C:\Users\bucki\Desktop\PCbuild\PCbuild\bin\Debug\netcoreapp3.1\PCbuild.runtimeconfig.dev.json
+C:\Users\bucki\Desktop\PCbuild\PCbuild\bin\Debug\netcoreapp3.1\PCbuild.dll
+C:\Users\bucki\Desktop\PCbuild\PCbuild\bin\Debug\netcoreapp3.1\PCbuild.pdb
+C:\Users\bucki\Desktop\PCbuild\PCbuild\obj\Debug\netcoreapp3.1\PCbuild.csprojAssemblyReference.cache
+C:\Users\bucki\Desktop\PCbuild\PCbuild\obj\Debug\netcoreapp3.1\PCbuild.AssemblyInfoInputs.cache
+C:\Users\bucki\Desktop\PCbuild\PCbuild\obj\Debug\netcoreapp3.1\PCbuild.AssemblyInfo.cs
+C:\Users\bucki\Desktop\PCbuild\PCbuild\obj\Debug\netcoreapp3.1\PCbuild.dll
+C:\Users\bucki\Desktop\PCbuild\PCbuild\obj\Debug\netcoreapp3.1\PCbuild.pdb
